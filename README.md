@@ -33,7 +33,7 @@ As seções foram divididas em:
   - Número de casos a partir de viajantes
   - Há relação entre os hospitalizados e viajantes?
   - Sintomas mais frequentes (em construção)
-  - Números da Monkeypox no Brasil
+  - Números da Monkeypox no Brasil (em construção)
 
 
 ### **Qual o objetivo desse dataset?**
