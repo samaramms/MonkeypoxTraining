@@ -19,11 +19,11 @@ Em 1958, quando cientistas dinamarqueses descobriram primatas infectados com ess
 
 ### **Os macacos e outros primatas são culpados?**
 
-Não! Apesar do nome ser varíola dos macacos, eles não são os  culpados do surto atual. Não há um estudo conclusivo que demonstre que o surto atual tenha começado por eles. Obviamente, um humano pode se contaminar se tiver contato com animais (primatas ou roedores) infectados. Mas, até agora os casos notificados tem sido de transmissões humano-humano. 4
+Não! Apesar do nome ser varíola dos macacos, eles não são os  culpados do surto atual. Não há um estudo conclusivo que demonstre que o surto atual tenha começado por eles. Obviamente, um humano pode se contaminar se tiver contato com animais (primatas ou roedores) infectados. Mas, até agora os casos notificados tem sido de transmissões humano-humano (4)
 
 ### **Os humanos são os únicos afetados?**
 
-Não, primatas e roedores também podem ser contaminados. A OMS recomenda também que humanos infectados evitem contato com PETs.(1) Um exemplo (acessado em 24/08/2022) é este caso brasileiro onde houve a transmissão do vírus de [um humano para  um cachorro](https://g1.globo.com/mg/zona-da-mata/noticia/2022/08/23/juiz-de-fora-confirma-primeiro-caso-de-variola-dos-macacos-em-cachorro.ghtml)
+Não, primatas e roedores também podem ser contaminados. A OMS recomenda também que humanos infectados evitem contato com PETs (1,6). Um exemplo (acessado em 24/08/2022) é este caso brasileiro onde houve a transmissão do vírus de [um humano para  um cachorro](https://g1.globo.com/mg/zona-da-mata/noticia/2022/08/23/juiz-de-fora-confirma-primeiro-caso-de-variola-dos-macacos-em-cachorro.ghtml)
 
 ### **O que este dataset mostra?**
 
@@ -41,7 +41,7 @@ As seções foram divididas em:
 Além de ser um dataset de treinamento de ETL/visualização de dados sobre o número de casos de Monkeypox do Brasil e do Mundo (5,6), serve também para mostrar um pouco mais sobre a doença e combater o equívoco de que os primatas são os principais transmissores/culpados do surto atual 
 
 
-
+## FONTES
 
 1. [World Health Organization/ Organização Mundial da Saúde](https://www.who.int/news-room/fact-sheets/detail/monkeypox) 
 2. Bunge EM, Hoet B, Chen L, Lienert F, Weidenthaler H, Baer LR, Steffen R. The changing epidemiology of human monkeypox-A potential threat? A systematic review. PLoS Negl Trop Dis. 2022 Feb 11;16(2):e0010141. doi: 10.1371/journal.pntd.0010141. PMID: 35148313; PMCID: PMC8870502. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8870502/
