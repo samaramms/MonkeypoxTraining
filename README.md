@@ -4,6 +4,7 @@
 
 #### Nota 1: o arquivo original/“cru” pode ser obtido [aqui](https://raw.githubusercontent.com/globaldothealth/monkeypox/main/latest.csv)
 #### Nota 2: o arquivo pode sofrer alterações ser a medida que surgirem novos casos e/ou novas análises.
+### Nota 3: os números de casos do Brasil foram obtidos a partir do Boletim Epidemiológico (n. 60 - 16/09/22) disponibilizado em .pdf pelo Ministério da Saúde e trasnformado em .csv via Power BI.
 
 ### Sobre as informações, dados e dataset:
 
@@ -32,8 +33,8 @@ As seções foram divididas em:
   - 10 países com maior número de casos
   - Número de casos a partir de viajantes
   - Há relação entre os hospitalizados e viajantes?
+  - Números da Monkeypox no Brasil
   - Sintomas mais frequentes (em construção)
-  - Números da Monkeypox no Brasil (em construção)
 
 
 ### **Qual o objetivo desse dataset?**
